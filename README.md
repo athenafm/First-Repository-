@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# First-Repository
+# My First Repository
 
 ## Research Interests
 
@@ -79,5 +79,12 @@ Some of the legal and ethical restrictions I must take into account is storing p
 **Strategies to protect the value of my data through Quick Hits for Data Management** 
 
 I will be sure to keep the raw data of my project on separate platforms to ensure there are multiple copies. For example, I will keep a copy on Rstudio itself and another copy will be present on Github as well. Additionally, I have a google drive and Onedrive account that is shared with multiple members of my team to ensure they have access and have multiple copies. Lastly, the raw data is also kept on a separate computer that has previous research and data from other studies as well 
-Raw data will also be kept in a raw-data folder under my Github repository. I anticipate that the data will be kept 
+
+Raw data will also be kept in a raw-data folder under my Github repository. I anticipate that the data will be kept in csv files and pdf files, all of wwhich can be converted to open formats. One of the naming conventions that I will use for my project data can be "my-first-project", using dashes to illustrate the spaces in between the words. 
+
+Some of the standards that are relevant to my project involve making sure the particpants fit inside the inclusion and exclusion criteria. For example, to elimiante variability and confounding variables, none of the participants can be pregnant as we do not know the effects of the drug on pregnancy outcomes. Additionally, the participants have to have bloodwork that fits within a certain range, if one of their liver enzymes are too high then this opens up the possibility that some of our results may be not representative of the general population. 
+
+Some of the existing standards that are used in my project is to make sure that the methods that are used to measure energy expenditure are consistent. For example, prior to our metabolic visits, we have to measure body composition using either a DXA scan (gold standard) or a BIA scan. Sometimes, participants cannot fit onto DXA scans so we must use a BIA scan to accomodate them. If it turns out that they lose weight later on in the study using the weight loss drug, we need to use a BIA scanner consistenly throughout the study in order to eliminate variability. A standard that I want to create to help manage my data is to ensure that I am using the same instruments throughout different timepoints in the study. For example, if I use a different tape measurer to obtain waist circumference for one patient, then I must use this throughout the study for that participant to maintain consistency. 
+
+In order to document my data throughout my project I will ensure a Github repository is created so that way I can save my changes and look at the different versions that I have created. This is helpful as it will ensure that I am able to see the progress of my project. 
 
