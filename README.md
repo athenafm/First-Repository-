@@ -43,10 +43,7 @@ print("I am excited to learn how to code using R studio")
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of First-Repository- is to …
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
 
 ``` r
 summary(cars)
